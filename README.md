@@ -1,4 +1,4 @@
-# game-dev-links
+# Game dev links
 
 
 ## Learning material
