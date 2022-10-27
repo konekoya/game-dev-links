@@ -1,11 +1,12 @@
 # Unity links
 
 ## Courses
-
-- [Brackeys](https://www.youtube.com/c/Brackeys/featured) - No longer updated, but still has a lot of tutorials on Unity
 - [Complete C# Unity Game Developer 2D](https://www.udemy.com/course/unitycourse/) - Paid content, available on Udemy. Good for game development beginner
 - [Unity Learn](https://learn.unity.com/) - A offical website for learning game development with Unity
 
+## YouTube channels
+- [Code Monkey](https://www.youtube.com/c/CodeMonkeyUnity)
+- [Brackeys](https://www.youtube.com/c/Brackeys/featured) - No longer updated, but still has a lot of tutorials on Unity
 
 ## Docs
 - [Unity Documentation](https://docs.unity3d.com/Manual/index.html) - Official docs
