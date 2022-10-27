@@ -18,3 +18,9 @@
 
 ## Packages
 - [Cinemachine](https://unity.com/unity/features/editor/art-and-design/cinemachine) - Powering cameras for films and games
+
+## Game engines
+- [Godot](https://godotengine.org/)
+- [Unreal engine](https://www.unrealengine.com/en-US)
+- [GameMaker](https://gamemaker.io/en/gamemaker)
+- [PICO-8](https://www.lexaloffle.com/pico-8.php)
