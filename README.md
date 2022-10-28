@@ -34,3 +34,4 @@
 - [Unity Asset Store](https://assetstore.unity.com/) - Offcial site for both paid and free assets
 - [Pixabay](https://pixabay.com/sound-effects/) - Free sound effects for game development
 - [Dev Assets](https://devassets.com/) - A bit outdated but free assets for your game
+- [Unity Game Assets](https://github.com/HotpotDesign/Unity-Game-Assets) - Collection for many asset sites
