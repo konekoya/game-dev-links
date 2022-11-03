@@ -2,7 +2,7 @@
 
 ## Courses
 - [Complete C# Unity Game Developer 2D](https://www.udemy.com/course/unitycourse/) - Paid content, available on Udemy. Good for game development beginner
-- [Unity Learn](https://learn.unity.com/) - An offical website for learning game development with Unity. Really easy to pick up, but the site is somehow very slow
+- [Unity Learn](https://learn.unity.com/) - An offical website for learning game development with Unity. Beginner friendly, the tutorials are really easy to follow.
 
 ## YouTube channels
 - [Code Monkey](https://www.youtube.com/c/CodeMonkeyUnity)
