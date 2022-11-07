@@ -10,6 +10,7 @@
 
 ## Blogs
 - [gamedevbeginner](https://gamedevbeginner.com/) - Tutorials and videos for learning Unity
+- [Pav Creations](https://pavcreations.com/) - Unity gamedev mechanics, pixelart, programming tips and more!
 
 ## Docs
 - [Unity Documentation](https://docs.unity3d.com/Manual/index.html) - Official docs
