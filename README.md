@@ -9,12 +9,14 @@
 
 - [用 unity 製作 2DRPG 雛形－沒有大野狼的小紅帽](https://ithelp.ithome.com.tw/users/20141001/ironman/4489) - 2D game dev tutorial (Mandarin)
 - [Build a 2D Platformer Game in Unity](https://www.youtube.com/playlist?list=PLrnPJCHvNZuCVTz6lvhR81nnaf1a-b67U)
+- [5 Tips for Better Platformers in Unity (With Code)!](youtube.com/watch?v=8QPmhDYn6rk)
 
 ## YouTube channels
 
 - [Code Monkey](https://www.youtube.com/c/CodeMonkeyUnity)
 - [Brackeys](https://www.youtube.com/c/Brackeys/featured) - No longer updated, but still has a lot of tutorials on Unity
 - [Game Dev Beginner](https://www.youtube.com/c/GameDevBeginner/featured) - Basic Unity video tutorials
+- [Games Plus James](https://www.youtube.com/c/gamesplusjames)
 
 ## Blogs
 
