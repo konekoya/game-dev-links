@@ -44,3 +44,4 @@
 - [Pixabay](https://pixabay.com/sound-effects/) - Free sound effects for game development
 - [Dev Assets](https://devassets.com/) - A bit outdated but free assets for your game
 - [Unity Game Assets](https://github.com/HotpotDesign/Unity-Game-Assets) - Collection for many asset sites
+- [Kenney](https://www.kenney.nl/) - Free game assets, no strings attached
