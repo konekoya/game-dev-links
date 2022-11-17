@@ -17,7 +17,7 @@
 - [Brackeys](https://www.youtube.com/c/Brackeys/featured) - No longer updated, but still has a lot of tutorials on Unity
 - [Game Dev Beginner](https://www.youtube.com/c/GameDevBeginner/featured) - Basic Unity video tutorials
 - [Games Plus James](https://www.youtube.com/c/gamesplusjames)
-- [Dani Krossing](https://www.youtube.com/@Dani_Krossing)
+- [Dani Krossing](https://www.youtube.com/@Dani_Krossing) - I can't help but think about Elon Musk whenever watching this guy's video 😅
 
 ## Blogs
 
