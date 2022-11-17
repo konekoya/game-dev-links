@@ -1,6 +1,6 @@
 # Unity links
 
-Resources and materials for game development and learning 
+Resources for learning and developing games
 
 ## Courses
 
