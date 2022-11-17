@@ -1,5 +1,7 @@
 # Unity links
 
+Resources and materials for game development and learning 
+
 ## Courses
 
 - [Complete C# Unity Game Developer 2D](https://www.udemy.com/course/unitycourse/) - Paid content, available on Udemy. Good for game development beginner
