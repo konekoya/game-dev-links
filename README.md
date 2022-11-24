@@ -7,12 +7,13 @@ Resources for learning and developing games
 - [Complete C# Unity Game Developer 2D](https://www.udemy.com/course/unitycourse/) - Paid content, available on Udemy. Good for game development beginner
 - [Unity Learn](https://learn.unity.com/) - An offical website for learning game development with Unity. Beginner friendly, the tutorials are really easy to follow.
 
-## Tutorials
+## **Tutorials**
 
 - [用 unity 製作 2DRPG 雛形－沒有大野狼的小紅帽](https://ithelp.ithome.com.tw/users/20141001/ironman/4489) - 2D game dev tutorial (Mandarin)
 - [Build a 2D Platformer Game in Unity](https://www.youtube.com/playlist?list=PLrnPJCHvNZuCVTz6lvhR81nnaf1a-b67U)
 - [5 Tips for Better Platformers in Unity (With Code)!](youtube.com/watch?v=8QPmhDYn6rk)
 - [Unity Basics for Beginners](https://www.youtube.com/watch?v=8pC3SE5PIzY&list=PLzDRvYVwl53vxdAPq8OznBAdjf0eeiipT&index=3&t=215s) - by Code Monnkey
+- [Unity tips](https://www.youtube.com/playlist?list=PLX2vGYjWbI0T-NxtmrkoqFpa4Ck2UeYab) - A variety of short tips to help speed up your productivity in Unity.
 
 ## YouTube channels
 
