@@ -14,6 +14,7 @@ Resources for learning and developing games
 - [5 Tips for Better Platformers in Unity (With Code)!](youtube.com/watch?v=8QPmhDYn6rk)
 - [Unity Basics for Beginners](https://www.youtube.com/watch?v=8pC3SE5PIzY&list=PLzDRvYVwl53vxdAPq8OznBAdjf0eeiipT&index=3&t=215s) - by Code Monnkey
 - [Unity tips](https://www.youtube.com/playlist?list=PLX2vGYjWbI0T-NxtmrkoqFpa4Ck2UeYab) - A variety of short tips to help speed up your productivity in Unity.
+- [Math for Game programmers: Juicing Your Cameras With Maths](https://www.youtube.com/watch?v=tu-Qe66AvtY) - Explores the math behind a variety of camera behaviors
 
 ## YouTube channels
 
@@ -48,8 +49,9 @@ Resources for learning and developing games
 
 ## Assets
 
-- [Unity Asset Store](https://assetstore.unity.com/) - Offcial site for both paid and free assets
+- [Unity Asset Store](https://assetstore.unity.com/) - Official site for both paid and free assets
 - [Pixabay](https://pixabay.com/sound-effects/) - Free sound effects for game development
 - [Dev Assets](https://devassets.com/) - A bit outdated but free assets for your game
 - [Unity Game Assets](https://github.com/HotpotDesign/Unity-Game-Assets) - Collection for many asset sites
 - [Kenney](https://www.kenney.nl/) - Free game assets, no strings attached
+- [Open Game Art](https://opengameart.org/) - Free game assets including sounds clips
