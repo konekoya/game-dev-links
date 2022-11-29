@@ -54,4 +54,4 @@ Resources for learning and developing games
 - [Dev Assets](https://devassets.com/) - A bit outdated but free assets for your game
 - [Unity Game Assets](https://github.com/HotpotDesign/Unity-Game-Assets) - Collection for many asset sites
 - [Kenney](https://www.kenney.nl/) - Free game assets, no strings attached
-- [Open Game Art](https://opengameart.org/) - Free game assets including sounds clips
+- [Open Game Art](https://opengameart.org/) - Free game assets including sounds clips and game musics
