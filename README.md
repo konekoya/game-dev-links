@@ -20,6 +20,7 @@ Resources for learning and developing games
 
 - [Code Monkey](https://www.youtube.com/c/CodeMonkeyUnity)
 - [Brackeys](https://www.youtube.com/c/Brackeys/featured) - No longer updated, but still has a lot of tutorials on Unity
+  - - [Cool Unity Tutorials](https://www.youtube.com/playlist?list=PLPV2KyIb3jR4GH32npxmkXE-AHnlamcdG) - Compiled by Brackeys
 - [Game Dev Beginner](https://www.youtube.com/c/GameDevBeginner/featured) - Basic Unity video tutorials
 - [Games Plus James](https://www.youtube.com/c/gamesplusjames)
 - [Dani Krossing](https://www.youtube.com/@Dani_Krossing) - I can't help but think about Elon Musk whenever watching this guy's video 😅
@@ -27,6 +28,7 @@ Resources for learning and developing games
 ## Blogs
 
 - [Game Dev Beginner](https://gamedevbeginner.com/) - Tutorials and videos for learning Unity
+  - [Order of execution for event functions](https://docs.unity3d.com/Manual/ExecutionOrder.html)
 - [Pav Creations](https://pavcreations.com/) - Unity gamedev mechanics, pixelart, programming tips and more!
 
 ## Docs
@@ -55,3 +57,4 @@ Resources for learning and developing games
 - [Unity Game Assets](https://github.com/HotpotDesign/Unity-Game-Assets) - Collection for many asset sites
 - [Kenney](https://www.kenney.nl/) - Free game assets, no strings attached
 - [Open Game Art](https://opengameart.org/) - Free game assets including sounds clips and game musics
+- [itch.io](https://itch.io/game-assets) - Some of the assets are free to download
