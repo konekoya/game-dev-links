@@ -5,6 +5,7 @@ Resources for learning and developing games
 ## Courses
 
 - [Complete C# Unity Game Developer 2D](https://www.udemy.com/course/unitycourse/) - Paid content, available on Udemy. Good for game development beginner
+- [Unity C# Mobile Game Development - Make 3 Games From Scratch](https://www.udemy.com/course/unity-mobile/) - Make and publish mobile games for both Android and iOS
 - [Unity Learn](https://learn.unity.com/) - An offical website for learning game development with Unity. Beginner friendly, the tutorials are really easy to follow.
 
 ## **Tutorials**
@@ -15,6 +16,12 @@ Resources for learning and developing games
 - [Unity Basics for Beginners](https://www.youtube.com/watch?v=8pC3SE5PIzY&list=PLzDRvYVwl53vxdAPq8OznBAdjf0eeiipT&index=3&t=215s) - by Code Monnkey
 - [Unity tips](https://www.youtube.com/playlist?list=PLX2vGYjWbI0T-NxtmrkoqFpa4Ck2UeYab) - A variety of short tips to help speed up your productivity in Unity.
 - [Math for Game programmers: Juicing Your Cameras With Maths](https://www.youtube.com/watch?v=tu-Qe66AvtY) - Explores the math behind a variety of camera behaviors
+- [2D Top Down Pixel Art RPG Game Dev in Unity 2022](https://www.youtube.com/watch?v=7iYWpzL9GkM&ab_channel=Chris%27Tutorials)
+
+#### Save and load user data
+
+- [SAVE & LOAD SYSTEM in Unity](https://www.youtube.com/watch?v=XOjd_qU2Ido&t=321s&ab_channel=Brackeys) - By using a static class
+- [Save and Load - FROM FILE in binary format](https://www.youtube.com/watch?v=Q2nEsa209ew&t=589s&ab_channel=Epitome) - By using a singleton
 
 ## YouTube channels
 
@@ -39,6 +46,8 @@ Resources for learning and developing games
 ## Packages
 
 - [Cinemachine](https://unity.com/unity/features/editor/art-and-design/cinemachine) - Powering cameras for films and games
+- [
+  Easy Save](https://assetstore.unity.com/packages/tools/utilities/easy-save-the-complete-save-data-serializer-system-768?aid=1101lPGj&utm_campaign=unity_affiliate&utm_medium=affiliate&utm_source=partnerize-linkmaker#description) - The Complete Save Data & Serializer System
 
 ## Game engines
 
