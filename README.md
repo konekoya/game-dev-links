@@ -23,6 +23,10 @@ Resources for learning and developing games
 - [SAVE & LOAD SYSTEM in Unity](https://www.youtube.com/watch?v=XOjd_qU2Ido&t=321s&ab_channel=Brackeys) - By using a static class
 - [Save and Load - FROM FILE in binary format](https://www.youtube.com/watch?v=Q2nEsa209ew&t=589s&ab_channel=Epitome) - By using a singleton
 
+#### Game UIs
+
+- [START MENU in Unity](zc8ac_qUXQY) - Create a basic start menu
+
 ## YouTube channels
 
 - [Code Monkey](https://www.youtube.com/c/CodeMonkeyUnity)
@@ -58,6 +62,15 @@ Resources for learning and developing games
 - [CONSTRUCT](https://www.construct.net/en)
 - [RPG MAKER](https://www.rpgmakerweb.com/)
 
+## Text Editor
+
+- [How to enable OmniSharp formatter](https://github.com/dotnet/format/issues/648#issuecomment-614905524) - From a GitHub issue thread. And you will probably need to add the following in your VSCode `settings.json`
+  ```json
+  "[csharp]": {
+    "editor.defaultFormatter": "ms-dotnettools.csharp"
+  },
+  ```
+
 ## Assets
 
 - [Unity Asset Store](https://assetstore.unity.com/) - Official site for both paid and free assets
@@ -67,3 +80,7 @@ Resources for learning and developing games
 - [Kenney](https://www.kenney.nl/) - Free game assets, no strings attached
 - [Open Game Art](https://opengameart.org/) - Free game assets including sounds clips and game musics
 - [itch.io](https://itch.io/game-assets) - Some of the assets are free to download
+
+## Others
+
+- [Mono Releases](https://www.mono-project.com/docs/about-mono/releases/) - List of available Mono releases
