@@ -38,15 +38,25 @@ Resources for learning and developing games
 - [How to make a Dialogue System in Unity](https://www.youtube.com/watch?v=_nRzoTzeyxU&ab_channel=Brackeys) - Create NPC like dialogue system
 - [How to fit your Unity Game on Different Screen Sizes](https://www.youtube.com/watch?v=jcw4cBJbvrc&ab_channel=CryptoGrounds) - This will only fix the canvas not the actual game
 
-#### Enemy AI
+#### Enemy AI and waypoint system
 
 - [The Ultimate beginner's guide to AI with Unity & C#](https://www.youtube.com/watch?v=dmQyfWxUNPw&ab_channel=Blackthornprod)
--
+- [ADVANCED AI IN UNITY (Made EASY) - STATE MACHINE BEHAVIORS](https://www.youtube.com/watch?v=dYi-i83sq5g&list=PLBIb_auVtBwDgHLhYc-NG633rTbTPim9z&index=7&ab_channel=Blackthornprod) - Using state machine behaviour class
+- [TOWER DEFENSE ENEMY AI WITH UNITY AND C#](https://www.youtube.com/watch?v=ZeeJLsEXjno&list=PLBIb_auVtBwDgHLhYc-NG633rTbTPim9z&index=6&ab_channel=Blackthornprod) - Simple waypoint system
+
+#### 2D Movement and animation
+
+- [TOP DOWN MOVEMENT 2D IN UNITY](https://www.youtube.com/watch?v=_iJgw2I0MmI&ab_channel=DaniKrossing) - Animate the player thru code
+- [MAKING RUN, IDLE & JUMP 2D GAME ANIMATIONS](https://www.youtube.com/watch?v=FTxQKHG5WCA&ab_channel=Blackthornprod) - Instead of using separate sprites for each animation, it just animate player body parts and create a more complex animation
+- [HOW TO MAKE 2D GAME ANIMATIONS IN UNITY](https://www.youtube.com/watch?v=EmbA-AitPow&ab_channel=Blackthornprod) - Basic character animation creation in Photoshop and Unity
+- [Unity Top Down Character Controller with Animation and Movement](https://www.youtube.com/watch?v=yfsqai3ivyA&ab_channel=CouchFerretmakesGames) - A more complete 2D movement and animation tutorial
+- [How to make 2D Top Down Movement (Brackeys/Continued)](https://www.youtube.com/watch?v=fRpoE4FfJf8&ab_channel=JTAGames)
 
 ## YouTube channels
 
 YouTube and Udemy are by far the best places to look for Unity tutorials and game dev related topics
 
+- [Unity](https://www.youtube.com/user/Unity3D) - Official YouTube channel for Unity
 - [Code Monkey](https://www.youtube.com/c/CodeMonkeyUnity)
 - [Brackeys](https://www.youtube.com/c/Brackeys/featured) - No longer updated, but still has a lot of tutorials on Unity
   - - [Cool Unity Tutorials](https://www.youtube.com/playlist?list=PLPV2KyIb3jR4GH32npxmkXE-AHnlamcdG) - Compiled by Brackeys
@@ -54,6 +64,7 @@ YouTube and Udemy are by far the best places to look for Unity tutorials and gam
 - [Games Plus James](https://www.youtube.com/c/gamesplusjames)
 - [Dani Krossing](https://www.youtube.com/@Dani_Krossing) - I can't help but think about Elon Musk whenever watching this guy's video 😅
 - [Blackthornprod](https://www.youtube.com/@Blackthornprod) - Game development with Unity and Game art
+- [Game Dev Guide](https://www.youtube.com/@GameDevGuide)
 
 ## Blogs
 
@@ -105,6 +116,8 @@ There are generally two ways of installing a package to Unity.
 - [Kenney](https://www.kenney.nl/) - Free game assets, no strings attached
 - [Open Game Art](https://opengameart.org/) - Free game assets including sounds clips and game musics
 - [itch.io](https://itch.io/game-assets) - Some of the assets are free to download
+- [Freesound](https://freesound.org/) - As the name implies
+- [YouTube Audio library](https://www.youtube.com/audiolibrary) - Required a Google account
 
 ## Others
 
