@@ -17,6 +17,7 @@ Resources for learning and developing games
 - [Math for Game programmers: Juicing Your Cameras With Maths](https://www.youtube.com/watch?v=tu-Qe66AvtY) - Explores the math behind a variety of camera behaviors
 - [2D Top Down Pixel Art RPG Game Dev in Unity 2022](https://www.youtube.com/watch?v=7iYWpzL9GkM&ab_channel=Chris%27Tutorials)
 - [How to Fix Blurry Graphics in Unity](https://techstacker.com/blurry-graphics-unity/) - Fix 2D sprite blurry issue
+- [The Real Ultimate Guide to Fixing OmniSharp in VS Code](https://reese.codes/blog/post/the-real-ultimate-guide-to-fixing-omnisharp-in-vs-code/) - Correctly configure your VSCode for Unity Editor
 
 #### Unity and Git
 
