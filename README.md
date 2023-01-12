@@ -10,18 +10,21 @@ Resources for learning and developing games
 
 ## **Tutorials**
 
-- [Build a 2D Platformer Game in Unity](https://www.youtube.com/playlist?list=PLrnPJCHvNZuCVTz6lvhR81nnaf1a-b67U)
 - [5 Tips for Better Platformers in Unity (With Code)!](youtube.com/watch?v=8QPmhDYn6rk)
 - [Unity Basics for Beginners](https://www.youtube.com/watch?v=8pC3SE5PIzY&list=PLzDRvYVwl53vxdAPq8OznBAdjf0eeiipT&index=3&t=215s) - by Code Monkey
 - [Unity tips](https://www.youtube.com/playlist?list=PLX2vGYjWbI0T-NxtmrkoqFpa4Ck2UeYab) - A variety of short tips to help speed up your productivity in Unity.
 - [Math for Game programmers: Juicing Your Cameras With Maths](https://www.youtube.com/watch?v=tu-Qe66AvtY) - Explores the math behind a variety of camera behaviors
 - [2D Top Down Pixel Art RPG Game Dev in Unity 2022](https://www.youtube.com/watch?v=7iYWpzL9GkM&ab_channel=Chris%27Tutorials)
-- [How to Fix Blurry Graphics in Unity](https://techstacker.com/blurry-graphics-unity/) - Fix 2D sprite blurry issue
-- [The Real Ultimate Guide to Fixing OmniSharp in VS Code](https://reese.codes/blog/post/the-real-ultimate-guide-to-fixing-omnisharp-in-vs-code/) - Correctly configure your VSCode for Unity Editor
 
 #### Unity and Git
 
 - [How to use GitHub with Unity](https://www.youtube.com/watch?v=qpXxcvS-g3g&ab_channel=Brackeys) - Start from 4:35 if you already know about Git and GitHub
+
+#### Game art and design
+
+- [How to MAKE YOUR GAME LOOK GOOD](https://www.youtube.com/watch?v=nvbQ9_bzx1k&ab_channel=Brackeys) - A few very solid tips for making your game look good
+- [How to Fix Blurry Graphics in Unity](https://techstacker.com/blurry-graphics-unity/) - Fix 2D sprite blurry issue
+- [EVERY Image Effect in Unity Explained](https://www.youtube.com/watch?v=9tjYz6Ab0oc&ab_channel=Brackeys)
 
 #### 2D lighting
 
@@ -51,7 +54,20 @@ Resources for learning and developing games
 - [MAKING RUN, IDLE & JUMP 2D GAME ANIMATIONS](https://www.youtube.com/watch?v=FTxQKHG5WCA&ab_channel=Blackthornprod) - Instead of using separate sprites for each animation, it just animate player body parts and create a more complex animation
 - [HOW TO MAKE 2D GAME ANIMATIONS IN UNITY](https://www.youtube.com/watch?v=EmbA-AitPow&ab_channel=Blackthornprod) - Basic character animation creation in Photoshop and Unity
 - [Unity Top Down Character Controller with Animation and Movement](https://www.youtube.com/watch?v=yfsqai3ivyA&ab_channel=CouchFerretmakesGames) - A more complete 2D movement and animation tutorial
-- [How to make 2D Top Down Movement (Brackeys/Continued)](https://www.youtube.com/watch?v=fRpoE4FfJf8&ab_channel=JTAGames)
+- [How to make 2D Top Down Movement (Brackeys/Continued)](https://www.youtube.com/watch?v=fRpoE4FfJf8&ab_channel=JTAGames) - Animation with Blend Trees
+- [Time.deltaTime explained](https://www.youtube.com/watch?v=8pYq15Lh0x4&list=PL0eyrZgxdwhwQZ9zPUC7TnJ-S0KxqGlrN&index=12&ab_channel=DaniKrossing) - What the heck is `Time.deltaTime`
+
+#### City builder
+
+- [How to make a basic CITY BUILDER in Unity](https://www.youtube.com/watch?v=n5EN2J2FxOQ&ab_channel=Blackthornprod)
+
+#### 2D map
+
+- [HOW TO MAKE AN RPG LIKE MAP](https://www.youtube.com/watch?v=T1masuI3g8Q&ab_channel=Blackthornprod) - Simple 2D map for small scale game
+
+#### IDE and text editor
+
+- [The Real Ultimate Guide to Fixing OmniSharp in VS Code](https://reese.codes/blog/post/the-real-ultimate-guide-to-fixing-omnisharp-in-vs-code/) - Correctly configure your VSCode for Unity Editor
 
 ## YouTube channels
 
