@@ -12,9 +12,7 @@ Resources for learning and developing games
 
 - [5 Tips for Better Platformers in Unity (With Code)!](youtube.com/watch?v=8QPmhDYn6rk)
 - [Unity Basics for Beginners](https://www.youtube.com/watch?v=8pC3SE5PIzY&list=PLzDRvYVwl53vxdAPq8OznBAdjf0eeiipT&index=3&t=215s) - by Code Monkey
-- [Unity tips](https://www.youtube.com/playlist?list=PLX2vGYjWbI0T-NxtmrkoqFpa4Ck2UeYab) - A variety of short tips to help speed up your productivity in Unity.
 - [Math for Game programmers: Juicing Your Cameras With Maths](https://www.youtube.com/watch?v=tu-Qe66AvtY) - Explores the math behind a variety of camera behaviors
-- [2D Top Down Pixel Art RPG Game Dev in Unity 2022](https://www.youtube.com/watch?v=7iYWpzL9GkM&ab_channel=Chris%27Tutorials)
 
 #### Unity and Git
 
@@ -24,12 +22,17 @@ Resources for learning and developing games
 
 - [How to MAKE YOUR GAME LOOK GOOD](https://www.youtube.com/watch?v=nvbQ9_bzx1k&ab_channel=Brackeys) - A few very solid tips for making your game look good
 - [How to Fix Blurry Graphics in Unity](https://techstacker.com/blurry-graphics-unity/) - Fix 2D sprite blurry issue
+
+#### Post processing with Universal RP(URP)
+
 - [EVERY Image Effect in Unity Explained](https://www.youtube.com/watch?v=9tjYz6Ab0oc&ab_channel=Brackeys)
+- [HOW TO DO POST PROCESSING IN UNITY](https://www.youtube.com/watch?v=yugZTujILB0&list=PL0eyrZgxdwhxnxfnzbmmB13ba7kv2yXuW&index=5&ab_channel=DaniKrossing)
+- [Installing the Universal Render Pipeline into an existing Project](https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@12.1/manual/InstallURPIntoAProject.html) - If you start a project without URP, this guide can help you quickly add it. Notice the version dropdown in the upper left, it should matches your unity editor version
 
 #### 2D lighting
 
 - [2D Lights in Unity!](https://www.youtube.com/watch?v=nkgGyO9VG54&ab_channel=Brackeys)
-- [How to Set up 2D Light in Unity](https://www.youtube.com/watch?v=mIftO_QxOE0&ab_channel=DaniKrossing)
+- [How to Set up 2D Light in Unity](https://www.youtube.com/watch?v=mIftO_QxOE0&ab_channel=DaniKrossing) - Also teaches you how to upgrade your existing 2D project to a Universal RP(URP) project
 
 #### Save and load user data
 
@@ -68,6 +71,10 @@ Resources for learning and developing games
 #### IDE and text editor
 
 - [The Real Ultimate Guide to Fixing OmniSharp in VS Code](https://reese.codes/blog/post/the-real-ultimate-guide-to-fixing-omnisharp-in-vs-code/) - Correctly configure your VSCode for Unity Editor
+
+#### Tips
+
+- [Unity tips](https://www.youtube.com/playlist?list=PLX2vGYjWbI0T-NxtmrkoqFpa4Ck2UeYab) - A variety of short tips to help speed up your productivity in Unity.
 
 ## YouTube channels
 
