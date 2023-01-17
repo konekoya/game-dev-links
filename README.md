@@ -44,12 +44,14 @@ Resources for learning and developing games
 - [START MENU in Unity](zc8ac_qUXQY) - Create a basic start menu
 - [How to make a Dialogue System in Unity](https://www.youtube.com/watch?v=_nRzoTzeyxU&ab_channel=Brackeys) - Create NPC like dialogue system
 - [How to fit your Unity Game on Different Screen Sizes](https://www.youtube.com/watch?v=jcw4cBJbvrc&ab_channel=CryptoGrounds) - This will only fix the canvas not the actual game
+- [How to make a HEALTH BAR in Unity!](https://www.youtube.com/watch?v=BLfNP4Sc_iA&ab_channel=Brackeys)
 
 #### Enemy AI and waypoint system
 
 - [The Ultimate beginner's guide to AI with Unity & C#](https://www.youtube.com/watch?v=dmQyfWxUNPw&ab_channel=Blackthornprod)
 - [ADVANCED AI IN UNITY (Made EASY) - STATE MACHINE BEHAVIORS](https://www.youtube.com/watch?v=dYi-i83sq5g&list=PLBIb_auVtBwDgHLhYc-NG633rTbTPim9z&index=7&ab_channel=Blackthornprod) - Using state machine behaviour class
 - [TOWER DEFENSE ENEMY AI WITH UNITY AND C#](https://www.youtube.com/watch?v=ZeeJLsEXjno&list=PLBIb_auVtBwDgHLhYc-NG633rTbTPim9z&index=6&ab_channel=Blackthornprod) - Simple waypoint system
+- [How to make a BOSS in Unity!](https://www.youtube.com/watch?v=AD4JIXQDw0s&ab_channel=Brackeys) - Complex animation and behaviors with state machine
 
 #### 2D Movement and animation
 
@@ -119,7 +121,7 @@ There are generally two ways of installing a package to Unity.
 - [Unreal engine](https://www.unrealengine.com/en-US)
 - [GameMaker](https://gamemaker.io/en/gamemaker)
 - [PICO-8](https://www.lexaloffle.com/pico-8.php)
-- [CONSTRUCT](https://www.construct.net/en)
+- [CONSTRUCT 3](https://www.construct.net/en)
 - [RPG MAKER](https://www.rpgmakerweb.com/)
 
 ## Text Editor
@@ -130,6 +132,7 @@ There are generally two ways of installing a package to Unity.
     "editor.defaultFormatter": "ms-dotnettools.csharp"
   },
   ```
+- [Unity Development with VS Code](https://code.visualstudio.com/docs/other/unity) - Setting up Unity with VSCode is a messy journey, start from the official docs from VSCode and search the issues from the GitHub repo
 
 ## Assets
 
