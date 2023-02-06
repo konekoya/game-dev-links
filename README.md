@@ -6,7 +6,7 @@ Resources for learning and developing games
 
 - [Complete C# Unity Game Developer 2D](https://www.udemy.com/course/unitycourse/) - Paid content, available on Udemy. Good for game development beginner
 - [Unity C# Mobile Game Development - Make 3 Games From Scratch](https://www.udemy.com/course/unity-mobile/) - Make and publish mobile games for both Android and iOS
-- [Unity Learn](https://learn.unity.com/) - An offical website for learning game development with Unity. Beginner friendly, the tutorials are really easy to follow.
+- [Unity Learn](https://learn.unity.com/) - An official website for learning game development with Unity. Beginner friendly, the tutorials are really easy to follow.
 
 ## **Tutorials**
 
@@ -20,13 +20,13 @@ Resources for learning and developing games
 
 #### Game art and design
 
-- [How to MAKE YOUR GAME LOOK GOOD](https://www.youtube.com/watch?v=nvbQ9_bzx1k&ab_channel=Brackeys) - A few very solid tips for making your game look good
+- [How to Make Your Game Look Good](https://www.youtube.com/watch?v=nvbQ9_bzx1k&ab_channel=Brackeys) - A few very solid tips for making your game look good
 - [How to Fix Blurry Graphics in Unity](https://techstacker.com/blurry-graphics-unity/) - Fix 2D sprite blurry issue
 
 #### Post processing with Universal RP(URP)
 
-- [EVERY Image Effect in Unity Explained](https://www.youtube.com/watch?v=9tjYz6Ab0oc&ab_channel=Brackeys)
-- [HOW TO DO POST PROCESSING IN UNITY](https://www.youtube.com/watch?v=yugZTujILB0&list=PL0eyrZgxdwhxnxfnzbmmB13ba7kv2yXuW&index=5&ab_channel=DaniKrossing)
+- [Every Image Effect in Unity Explained](https://www.youtube.com/watch?v=9tjYz6Ab0oc&ab_channel=Brackeys)
+- [How To Do post Processing In Unity](https://www.youtube.com/watch?v=yugZTujILB0&list=PL0eyrZgxdwhxnxfnzbmmB13ba7kv2yXuW&index=5&ab_channel=DaniKrossing)
 - [Installing the Universal Render Pipeline into an existing Project](https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@12.1/manual/InstallURPIntoAProject.html) - If you start a project without URP, this guide can help you quickly add it. Notice the version dropdown in the upper left, it should matches your unity editor version
 
 #### 2D lighting
@@ -36,30 +36,35 @@ Resources for learning and developing games
 
 #### Save and load user data
 
-- [SAVE & LOAD SYSTEM in Unity](https://www.youtube.com/watch?v=XOjd_qU2Ido&t=321s&ab_channel=Brackeys) - By using a static class
-- [Save and Load - FROM FILE in binary format](https://www.youtube.com/watch?v=Q2nEsa209ew&t=589s&ab_channel=Epitome) - By using a singleton
+- [Save & Load System in Unity](https://www.youtube.com/watch?v=XOjd_qU2Ido&t=321s&ab_channel=Brackeys) - By using a static class
+- [Save and Load - From File in binary format](https://www.youtube.com/watch?v=Q2nEsa209ew&t=589s&ab_channel=Epitome) - By using a singleton
 
 #### Game UIs
 
-- [START MENU in Unity](zc8ac_qUXQY) - Create a basic start menu
-- [How to make a Dialogue System in Unity](https://www.youtube.com/watch?v=_nRzoTzeyxU&ab_channel=Brackeys) - Create NPC like dialogue system
+- [Start Menu in Unity](zc8ac_qUXQY) - Create a basic start menu
+- [How to Make a Dialogue System in Unity](https://www.youtube.com/watch?v=_nRzoTzeyxU&ab_channel=Brackeys) - Create NPC like dialogue system
 - [How to fit your Unity Game on Different Screen Sizes](https://www.youtube.com/watch?v=jcw4cBJbvrc&ab_channel=CryptoGrounds) - This will only fix the canvas not the actual game
-- [How to make a HEALTH BAR in Unity!](https://www.youtube.com/watch?v=BLfNP4Sc_iA&ab_channel=Brackeys)
+- [How to Make a HEALTH BAR in Unity!](https://www.youtube.com/watch?v=BLfNP4Sc_iA&ab_channel=Brackeys)
+
+#### Health system
+
+- [Player Health System in Unity](https://www.youtube.com/watch?v=9i0UGVUKiaE&ab_channel=DaniKrossing) - With Singleton pattern
+- [How to make a HEALTH BAR in Unity!](https://www.youtube.com/watch?v=BLfNP4Sc_iA&ab_channel=Brackeys) - Create a reusable health bar UI
 
 #### Enemy AI and waypoint system
 
 - [The Ultimate beginner's guide to AI with Unity & C#](https://www.youtube.com/watch?v=dmQyfWxUNPw&ab_channel=Blackthornprod)
-- [ADVANCED AI IN UNITY (Made EASY) - STATE MACHINE BEHAVIORS](https://www.youtube.com/watch?v=dYi-i83sq5g&list=PLBIb_auVtBwDgHLhYc-NG633rTbTPim9z&index=7&ab_channel=Blackthornprod) - Using state machine behaviour class
-- [TOWER DEFENSE ENEMY AI WITH UNITY AND C#](https://www.youtube.com/watch?v=ZeeJLsEXjno&list=PLBIb_auVtBwDgHLhYc-NG633rTbTPim9z&index=6&ab_channel=Blackthornprod) - Simple waypoint system
-- [How to make a BOSS in Unity!](https://www.youtube.com/watch?v=AD4JIXQDw0s&ab_channel=Brackeys) - Complex animation and behaviors with state machine
+- [Advanced AI in Unity (Made EASY) - State Machine Behaviors](https://www.youtube.com/watch?v=dYi-i83sq5g&list=PLBIb_auVtBwDgHLhYc-NG633rTbTPim9z&index=7&ab_channel=Blackthornprod) - Using state machine behaviour class
+- [Tower Defense Enemy AI with Unity and C#](https://www.youtube.com/watch?v=ZeeJLsEXjno&list=PLBIb_auVtBwDgHLhYc-NG633rTbTPim9z&index=6&ab_channel=Blackthornprod) - Simple waypoint system
+- [How to Make a BOSS in Unity!](https://www.youtube.com/watch?v=AD4JIXQDw0s&ab_channel=Brackeys) - Complex animation and behaviors with state machine
 
 #### 2D Movement and animation
 
-- [TOP DOWN MOVEMENT 2D IN UNITY](https://www.youtube.com/watch?v=_iJgw2I0MmI&ab_channel=DaniKrossing) - Animate the player thru code
-- [MAKING RUN, IDLE & JUMP 2D GAME ANIMATIONS](https://www.youtube.com/watch?v=FTxQKHG5WCA&ab_channel=Blackthornprod) - Instead of using separate sprites for each animation, it just animate player body parts and create a more complex animation
-- [HOW TO MAKE 2D GAME ANIMATIONS IN UNITY](https://www.youtube.com/watch?v=EmbA-AitPow&ab_channel=Blackthornprod) - Basic character animation creation in Photoshop and Unity
+- [Top Down Movement 2D in Unity](https://www.youtube.com/watch?v=_iJgw2I0MmI&ab_channel=DaniKrossing) - Animate the player thru code
+- [Making Run, Idle & Jump 2D Game Animations](https://www.youtube.com/watch?v=FTxQKHG5WCA&ab_channel=Blackthornprod) - Instead of using separate sprites for each animation, it just animate player body parts and create a more complex animation
+- [How to make 2D Game Animations in Unity](https://www.youtube.com/watch?v=EmbA-AitPow&ab_channel=Blackthornprod) - Basic character animation creation in Photoshop and Unity
 - [Unity Top Down Character Controller with Animation and Movement](https://www.youtube.com/watch?v=yfsqai3ivyA&ab_channel=CouchFerretmakesGames) - A more complete 2D movement and animation tutorial
-- [How to make 2D Top Down Movement (Brackeys/Continued)](https://www.youtube.com/watch?v=fRpoE4FfJf8&ab_channel=JTAGames) - Animation with Blend Trees
+- [How to Make 2D Top Down Movement (Brackeys/Continued)](https://www.youtube.com/watch?v=fRpoE4FfJf8&ab_channel=JTAGames) - Animation with Blend Trees
 - [Time.deltaTime explained](https://www.youtube.com/watch?v=8pYq15Lh0x4&list=PL0eyrZgxdwhwQZ9zPUC7TnJ-S0KxqGlrN&index=12&ab_channel=DaniKrossing) - What the heck is `Time.deltaTime`
 
 #### City builder
@@ -68,7 +73,7 @@ Resources for learning and developing games
 
 #### 2D map
 
-- [HOW TO MAKE AN RPG LIKE MAP](https://www.youtube.com/watch?v=T1masuI3g8Q&ab_channel=Blackthornprod) - Simple 2D map for small scale game
+- [How to Make An RPG Like Map](https://www.youtube.com/watch?v=T1masuI3g8Q&ab_channel=Blackthornprod) - Simple 2D map for small scale game
 
 #### IDE and text editor
 
