@@ -78,6 +78,17 @@ Resources for learning and developing games
 #### IDE and text editor
 
 - [The Real Ultimate Guide to Fixing OmniSharp in VS Code](https://reese.codes/blog/post/the-real-ultimate-guide-to-fixing-omnisharp-in-vs-code/) - Correctly configure your VSCode for Unity Editor
+- [How to enable OmniSharp formatter](https://github.com/dotnet/format/issues/648#issuecomment-614905524) - From a GitHub issue thread. And you will probably need to add the following in your VSCode `settings.json`
+  ```json
+  "[csharp]": {
+    "editor.defaultFormatter": "ms-dotnettools.csharp"
+  },
+  ```
+- [Unity Development with VS Code](https://code.visualstudio.com/docs/other/unity) - Setting up Unity with VSCode is a messy journey, start from the official docs from VSCode and search the issues from the GitHub repo
+
+#### Assets
+
+- [Creating your own asset packages](https://docs.unity3d.com/Manual/AssetPackagesCreate.html) - Export package to for other projects
 
 #### Tips
 
@@ -106,7 +117,6 @@ YouTube and Udemy are by far the best places to look for Unity tutorials and gam
 ## Docs
 
 - [Unity Documentation](https://docs.unity3d.com/Manual/index.html) - Official docs
-- [32 must-know Unity hotkeys and shortcuts](https://www.evercast.us/blog/unity-hotkeys-shortcuts)
 
 ## Packages
 
@@ -128,16 +138,6 @@ There are generally two ways of installing a package to Unity.
 - [PICO-8](https://www.lexaloffle.com/pico-8.php)
 - [CONSTRUCT 3](https://www.construct.net/en)
 - [RPG MAKER](https://www.rpgmakerweb.com/)
-
-## Text Editor
-
-- [How to enable OmniSharp formatter](https://github.com/dotnet/format/issues/648#issuecomment-614905524) - From a GitHub issue thread. And you will probably need to add the following in your VSCode `settings.json`
-  ```json
-  "[csharp]": {
-    "editor.defaultFormatter": "ms-dotnettools.csharp"
-  },
-  ```
-- [Unity Development with VS Code](https://code.visualstudio.com/docs/other/unity) - Setting up Unity with VSCode is a messy journey, start from the official docs from VSCode and search the issues from the GitHub repo
 
 ## Assets
 
